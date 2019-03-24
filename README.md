@@ -6,6 +6,6 @@ Open notepad++ and edit file and the code is below using python and flask and al
 
 python searchengine.py
 
-	Now it starts a server that is look like C:\Search Engine>python searchengine.py
+	Now it starts a server that looks like C:\Search Engine>python searchengine.py
 
 Running on http://127.0.0.1:5000/ (Press CTRL+C to quit) 	Open any browser and paste this http://127.0.0.1:5000/ 	Now your page will open and you can search as you want. 	If the search keywords is available in database then it shows the result otherwise it shows the Google result
